@@ -1,0 +1,271 @@
+[
+  {
+    "title": "Google Sheets Starter",
+    "description": "Load a Google Sheet into a notebook and start visualizing it with Plot.",
+    "fileKey": "template/googleSheetsStarter/googleSheetsStarter",
+    "files": []
+  },
+  {
+    "title": "Input + Chart",
+    "description": "Connect a slider to a chart.",
+    "fileKey": "template/inputChart/inputChart",
+    "files": [
+      {
+        "fileKey": "template/inputChart/files/penguins.csv",
+        "name": "penguins.csv",
+        "type": "text/csv"
+      }
+    ]
+  },
+  {
+    "title": "Search + Table",
+    "description": "Connect a freeform search input to a table.",
+    "fileKey": "template/search-table/search-table",
+    "files": [
+      {
+        "fileKey": "template/search-table/files/baby_names.csv",
+        "name": "baby_names.csv",
+        "type": "text/csv"
+      }
+    ]
+  },
+  {
+    "title": "SQL + Chart",
+    "description": "Connect a SQLite database to a chart.",
+    "fileKey": "template/sql-chart/sql-chart",
+    "files": [
+      {
+        "fileKey": "template/sql-chart/files/chinook.db",
+        "name": "chinook.db",
+        "type": "text/db"
+      }
+    ]
+  },
+  {
+    "title": "Plot Scatterplot",
+    "description": "Visualize a correlation from a CSV dataset using Plot.",
+    "fileKey": "template/plot-scatterplot/plot-scatterplot",
+    "files": [
+      {
+        "fileKey": "template/plot-scatterplot/files/penguins.csv",
+        "name": "chinook.db",
+        "type": "text/csv"
+      }
+    ]
+  },
+  {
+    "title": "Plot: Histogram",
+    "description": "Visualize a quantitative distribution from a CSV dataset using Plot.",
+    "fileKey": "template/plot-histogram/plot-histogram",
+    "files": [
+      {
+        "fileKey": "template/plot-histogram/files/penguins.csv",
+        "name": "penguins.csv",
+        "type": "text/csv"
+      }
+    ]
+  },
+  {
+    "title": "Plot U.S. Map",
+    "description": "Plot U.S. Map",
+    "fileKey": "template/plot-us-map/plot-us-map",
+    "files": [
+      {
+        "fileKey": "template/plot-us-map/files/counties-albers-10m.json",
+        "name": "counties-albers-10m.json",
+        "type": "text/json"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/us-places.csv",
+        "name": "us-places.csv",
+        "type": "text/csv"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/cityExample.png",
+        "name": "cityExample.png",
+        "type": "image/png"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/countyACSExample@1.png",
+        "name": "countyACSExample@1.png",
+        "type": "image/png"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/countyExample.png",
+        "name": "countyExample.png",
+        "type": "image/png"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/countyPopulationExample@1.png",
+        "name": "countyPopulationExample@1.png",
+        "type": "image/png"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/cumulativeCovidExample@1.png",
+        "name": "cumulativeCovidExample@1.png",
+        "type": "image/png"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/demographicsData2018.csv",
+        "name": "demographicsData2018.csv",
+        "type": "text/csv"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/demographicsDataApi2014.csv",
+        "name": "demographicsDataApi2014.csv",
+        "type": "text/csv"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/demographicsDataApi2016.csv",
+        "name": "demographicsDataApi2016.csv",
+        "type": "text/csv"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/demographicsKeys.json",
+        "name": "demographicsKeys.json",
+        "type": "text/json"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/nationExample.png",
+        "name": "nationExample.png",
+        "type": "image/png"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/ne_10m_populated_places.csv",
+        "name": "ne_10m_populated_places.csv",
+        "type": "text/csv"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/populationData.csv",
+        "name": "populationData.csv",
+        "type": "text/csv"
+      },
+      {
+        "fileKey": "template/plot-us-map/files/stateExample.png",
+        "name": "stateExample.png",
+        "type": "image/png"
+      },
+      {
+        "fileKey": "template/plot-us-map/US-geographic-data",
+        "name": "US-geographic-data",
+        "type": "text/plain"
+      },
+      {
+        "fileKey": "template/plot-us-map/US-coronavirus-daily-cases-map",
+        "name": "US-coronavirus-daily-cases-map",
+        "type": "text/plain"
+      },
+      {
+        "fileKey": "template/plot-us-map/scrubber",
+        "name": "scrubber",
+        "type": "text/plain"
+      }
+    ]
+  },
+  {
+    "title": "Plot World Map",
+    "description": "Plot World Map",
+    "fileKey": "template/plot-world-map/plot-world-map",
+    "files": [
+      {
+        "fileKey": "template/plot-world-map/files/land-50m.json",
+        "name": "land-50m.json",
+        "type": "text/json"
+      }
+    ]
+  },
+  {
+    "title": "Simple D3",
+    "description": "The simplest starting point for working with D3.",
+    "fileKey": "template/simple-d3/simple-d3",
+    "files": []
+  },
+  {
+    "title": "D3 scatterplot",
+    "description": "A good starting point for many two-dimensional charts with x and y axes.",
+    "fileKey": "template/d3-scatterplot/d3-scatterplot",
+    "files": []
+  },
+  {
+    "title": "D3 U.S. map",
+    "description": "A static U.S. map with county and state outlines.",
+    "fileKey": "template/d3-u-s-map/d3-u-s-map",
+    "files": [
+      {
+        "fileKey": "template/d3-u-s-map/files/counties-albers-10m.json",
+        "name": "counties-albers-10m.json",
+        "type": "text/json"
+      },
+      {
+        "fileKey": "template/d3-u-s-map/files/30f28c76aad0f49f92ee59a1bbb5555a4da664388cee9cdfc93fffd00f9bdac1.jpg",
+        "name": "30f28c76aad0f49f92ee59a1bbb5555a4da664388cee9cdfc93fffd00f9bdac1.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  },
+  {
+    "title": "SQLite Starter",
+    "description": "Upload a .db file to begin querying your database with this ubiquitous zero-configuration engine.",
+    "fileKey": "template/sqlite-starter/sqlite-starter",
+    "files": [
+      {
+        "fileKey": "template/sqlite-starter/files/chinook.db",
+        "name": "chinook.db",
+        "type": "text/db"
+      }
+    ]
+  },
+  {
+    "title": "Interactive-svg",
+    "description": "Interactive-svg",
+    "fileKey": "template/interactive-svg/interactive-svg",
+    "files": []
+  },
+  {
+    "title": "Simple-html-canvas",
+    "description": "Simple-html-canvas",
+    "fileKey": "template/simple-html-canvas/simple-html-canvas",
+    "files": []
+  },
+  {
+    "title": "Interactive-html-canvas",
+    "description": "Interactive-html-canvas",
+    "fileKey": "template/interactive-html-canvas/interactive-html-canvas",
+    "files": []
+  },
+  {
+    "title": "Processing-p5-js",
+    "description": "Processing-p5-js",
+    "fileKey": "template/processing-p5-js/processing-p5-js",
+    "files": [
+      {
+        "fileKey": "template/processing-p5-js/p5",
+        "name": "p5",
+        "type": "text/plain"
+      },
+      {
+        "fileKey": "template/processing-p5-js/copiable",
+        "name": "copiable",
+        "type": "text/plain"
+      }
+    ]
+  },
+  {
+    "title": "Webgl-shader",
+    "description": "Webgl-shader",
+    "fileKey": "template/webgl-shader/webgl-shader",
+    "files": [
+      {
+        "fileKey": "template/webgl-shader/shader",
+        "name": "shader",
+        "type": "text/plain"
+      }
+    ]
+  },
+  {
+    "title": "Three-js",
+    "description": "Three-js",
+    "fileKey": "template/three-js/three-js",
+    "files": []
+  }
+]
